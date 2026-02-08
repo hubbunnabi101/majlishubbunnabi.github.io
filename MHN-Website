@@ -1,0 +1,12 @@
+MHN-Website/
+│
+├── index.html          (Beranda)
+├── pengurus.html       (Struktur)
+├── berita.html         (Kegiatan & Artikel)
+├── pengumuman.html     (Info resmi)
+├── kontak.html         (Form kontak)
+├── style.css
+└── images/
+    ├── logo.png
+    ├── kegiatan1.jpg
+    └── kegiatan2.jpg
